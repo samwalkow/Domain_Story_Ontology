@@ -1,0 +1,1017 @@
+{
+  "_comment": "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.1.7]",
+  "header": {
+    "languages": [
+      "undefined"
+    ],
+    "baseIris": [
+      "http://webprotege.stanford.edu",
+      "http://www.w3.org/2002/07/owl",
+      "http://www.w3.org/2000/01/rdf-schema",
+      "http://www.w3.org/2001/XMLSchema"
+    ],
+    "prefixList": {
+      "owl": "http://www.w3.org/2002/07/owl#",
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "webprotege": "http://webprotege.stanford.edu/",
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "": "http://webprotege.stanford.edu/project/DFHF1aLb7Hz87Qnysf4TRA#",
+      "xml": "http://www.w3.org/XML/1998/namespace",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+    },
+    "iri": "http://webprotege.stanford.edu/project/DFHF1aLb7Hz87Qnysf4TRA"
+  },
+  "namespace": [],
+  "settings": {
+    "global": {
+      "zoom": "0.34",
+      "translation": [
+        421.01,
+        193.99
+      ],
+      "paused": false
+    },
+    "gravity": {
+      "classDistance": 200,
+      "datatypeDistance": 120
+    },
+    "filter": {
+      "checkBox": [
+        {
+          "id": "datatypeFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "objectPropertyFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "subclassFilterCheckbox",
+          "checked": false
+        },
+        {
+          "id": "disjointFilterCheckbox",
+          "checked": true
+        },
+        {
+          "id": "setoperatorFilterCheckbox",
+          "checked": false
+        }
+      ],
+      "degreeSliderValue": "0"
+    },
+    "modes": {
+      "checkBox": [
+        {
+          "id": "pickandpinModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "nodescalingModuleCheckbox",
+          "checked": true
+        },
+        {
+          "id": "compactnotationModuleCheckbox",
+          "checked": false
+        },
+        {
+          "id": "colorexternalsModuleCheckbox",
+          "checked": true
+        }
+      ],
+      "colorSwitchState": false
+    }
+  },
+  "class": [
+    {
+      "id": "8",
+      "type": "owl:Class"
+    },
+    {
+      "id": "12",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "13",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "14",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "2",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "15",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "7",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "11",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "16",
+      "type": "owl:Thing"
+    },
+    {
+      "id": "22",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "23",
+      "type": "owl:Class"
+    },
+    {
+      "id": "5",
+      "type": "rdfs:Datatype"
+    },
+    {
+      "id": "1",
+      "type": "owl:Class"
+    },
+    {
+      "id": "10",
+      "type": "owl:Class"
+    },
+    {
+      "id": "24",
+      "type": "owl:Class"
+    },
+    {
+      "id": "32",
+      "type": "owl:Class"
+    },
+    {
+      "id": "37",
+      "type": "owl:Class"
+    },
+    {
+      "id": "34",
+      "type": "rdfs:Literal"
+    },
+    {
+      "id": "4",
+      "type": "owl:Class"
+    },
+    {
+      "id": "27",
+      "type": "owl:Class"
+    }
+  ],
+  "classAttribute": [
+    {
+      "id": "8",
+      "iri": "http://webprotege.stanford.edu/RDivXlcaIYQhDAXZgCJcIQ",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDivXlcaIYQhDAXZgCJcIQ",
+        "undefined": "Data"
+      },
+      "attributes": [
+        "external"
+      ],
+      "individuals": [
+        {
+          "iri": "http://webprotege.stanford.edu/RMzi7aC3Ge8a642WMpXcu0",
+          "labels": {
+            "IRI-based": "RMzi7aC3Ge8a642WMpXcu0",
+            "undefined": "Gamer"
+          }
+        }
+      ],
+      "pos": [
+        147.02,
+        -280.17
+      ]
+    },
+    {
+      "id": "12",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        372.77,
+        1300.48
+      ]
+    },
+    {
+      "id": "13",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        949.81,
+        822.97
+      ]
+    },
+    {
+      "id": "14",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        192.05,
+        62.96
+      ]
+    },
+    {
+      "id": "2",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        92,
+        410.06
+      ]
+    },
+    {
+      "id": "15",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        107.16,
+        571.93
+      ]
+    },
+    {
+      "id": "7",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        443.33,
+        -304.69
+      ]
+    },
+    {
+      "id": "11",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        830.6,
+        999.31
+      ]
+    },
+    {
+      "id": "16",
+      "iri": "http://www.w3.org/2002/07/owl#Thing",
+      "baseIri": "http://owl2vowl.de",
+      "label": {
+        "undefined": "Thing"
+      },
+      "pos": [
+        1477.74,
+        253.2
+      ]
+    },
+    {
+      "id": "22",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        640.44,
+        -237.3
+      ]
+    },
+    {
+      "id": "23",
+      "iri": "http://webprotege.stanford.edu/RBcieSnmkAQ3o5HYAz8WKkx",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBcieSnmkAQ3o5HYAz8WKkx",
+        "undefined": "Person"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        175.76,
+        822.69
+      ]
+    },
+    {
+      "id": "5",
+      "iri": "http://www.w3.org/2001/XMLSchema#string",
+      "baseIri": "http://www.w3.org/2001/XMLSchema",
+      "label": {
+        "IRI-based": "string"
+      },
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        187.5,
+        -91.13
+      ]
+    },
+    {
+      "id": "1",
+      "iri": "http://webprotege.stanford.edu/R8WXxSBJzOImy8EYB9FZjqv",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8WXxSBJzOImy8EYB9FZjqv",
+        "undefined": "User"
+      },
+      "attributes": [
+        "external"
+      ],
+      "individuals": [
+        {
+          "iri": "http://webprotege.stanford.edu/RVOENCt2YdUhDUTt2p8m5A",
+          "labels": {
+            "IRI-based": "RVOENCt2YdUhDUTt2p8m5A",
+            "undefined": "user_one"
+          }
+        }
+      ],
+      "pos": [
+        359.17,
+        465.19
+      ]
+    },
+    {
+      "id": "10",
+      "iri": "http://webprotege.stanford.edu/R8IOGx5dtF7zPK9XFWRicny",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8IOGx5dtF7zPK9XFWRicny",
+        "undefined": "Tool"
+      },
+      "attributes": [
+        "external"
+      ],
+      "individuals": [
+        {
+          "iri": "http://webprotege.stanford.edu/R94cQ241qftm7U0aArQtTCM",
+          "labels": {
+            "IRI-based": "R94cQ241qftm7U0aArQtTCM",
+            "undefined": "numpy"
+          }
+        },
+        {
+          "iri": "http://webprotege.stanford.edu/RDxFQ9HMUPZUciVPBZmKw4D",
+          "labels": {
+            "IRI-based": "RDxFQ9HMUPZUciVPBZmKw4D",
+            "undefined": "astropy"
+          }
+        },
+        {
+          "iri": "http://webprotege.stanford.edu/RdBJTHZTIN2JFxA0Jdxaux",
+          "labels": {
+            "IRI-based": "RdBJTHZTIN2JFxA0Jdxaux",
+            "undefined": "yt"
+          }
+        }
+      ],
+      "pos": [
+        689.98,
+        756.68
+      ]
+    },
+    {
+      "id": "24",
+      "iri": "http://webprotege.stanford.edu/RZvedsZoqqlEbN0adtRYAp",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RZvedsZoqqlEbN0adtRYAp",
+        "undefined": "Developer"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        436.28,
+        1067.18
+      ]
+    },
+    {
+      "id": "32",
+      "iri": "http://webprotege.stanford.edu/RBTPmyfw1vhjPzMQUIW1UJF",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBTPmyfw1vhjPzMQUIW1UJF",
+        "undefined": "Visualization"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        875.49,
+        69.06
+      ]
+    },
+    {
+      "id": "37",
+      "iri": "http://webprotege.stanford.edu/Rw4VM1pXXsdXhgZou8i8L",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "Rw4VM1pXXsdXhgZou8i8L",
+        "undefined": "Analysis"
+      },
+      "attributes": [
+        "external"
+      ],
+      "pos": [
+        786.23,
+        165.26
+      ]
+    },
+    {
+      "id": "34",
+      "iri": "http://www.w3.org/2000/01/rdf-schema#Literal",
+      "label": "Literal",
+      "attributes": [
+        "datatype"
+      ],
+      "pos": [
+        1428.19,
+        36.26
+      ]
+    },
+    {
+      "id": "4",
+      "iri": "http://webprotege.stanford.edu/R86TyvDqj3RA7NKuAWdcdVc",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R86TyvDqj3RA7NKuAWdcdVc",
+        "undefined": "Output"
+      },
+      "attributes": [
+        "external"
+      ],
+      "individuals": [
+        {
+          "iri": "http://webprotege.stanford.edu/RFUDsN4H2IaeTR18oRo8Ta",
+          "labels": {
+            "IRI-based": "RFUDsN4H2IaeTR18oRo8Ta",
+            "undefined": "sliceplot"
+          }
+        },
+        {
+          "iri": "http://webprotege.stanford.edu/R7PGJ6hBLPQWrj8P6EG4jiy",
+          "labels": {
+            "IRI-based": "R7PGJ6hBLPQWrj8P6EG4jiy",
+            "undefined": "phaseplot"
+          }
+        },
+        {
+          "iri": "http://webprotege.stanford.edu/RBvAjzHir0m2fbWL3UT1P4p",
+          "labels": {
+            "IRI-based": "RBvAjzHir0m2fbWL3UT1P4p",
+            "undefined": "projectionplot"
+          }
+        }
+      ],
+      "pos": [
+        460.8,
+        -11.08
+      ]
+    },
+    {
+      "id": "27",
+      "attributes": [
+        "union",
+        "anonymous"
+      ],
+      "pos": [
+        967.77,
+        450.19
+      ]
+    }
+  ],
+  "property": [
+    {
+      "id": "0",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "3",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "6",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "9",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "17",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "25",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "18",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "19",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "26",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "21",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "28",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "29",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "30",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "31",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "33",
+      "type": "owl:DatatypeProperty"
+    },
+    {
+      "id": "35",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "36",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "38",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "20",
+      "type": "owl:ObjectProperty"
+    },
+    {
+      "id": "39",
+      "type": "rdfs:subClassOf"
+    },
+    {
+      "id": "GENERATED-UNION-27-32-0",
+      "type": "setOperatorProperty"
+    },
+    {
+      "id": "GENERATED-UNION-27-37-1",
+      "type": "setOperatorProperty"
+    }
+  ],
+  "propertyAttribute": [
+    {
+      "id": "0",
+      "iri": "http://webprotege.stanford.edu/RCDM6KqSMxU11WKHFki3mMk",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCDM6KqSMxU11WKHFki3mMk",
+        "undefined": "first_name"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "1",
+      "range": "2",
+      "pos": [
+        208.19,
+        434.03
+      ]
+    },
+    {
+      "id": "3",
+      "iri": "http://webprotege.stanford.edu/Rhfk0UKAOfSfe1BbJQFuqe",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "Rhfk0UKAOfSfe1BbJQFuqe",
+        "undefined": "output_title"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "4",
+      "range": "5",
+      "pos": [
+        304.69,
+        -56.81
+      ]
+    },
+    {
+      "id": "6",
+      "iri": "http://webprotege.stanford.edu/R8r8bPXrI0acSnQrnCgwimU",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8r8bPXrI0acSnQrnCgwimU",
+        "undefined": "output_axis"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "4",
+      "range": "7",
+      "pos": [
+        450.4,
+        -185.87
+      ]
+    },
+    {
+      "id": "9",
+      "iri": "http://webprotege.stanford.edu/R9GlPCpFQuNDeRaF6dZaPjL",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R9GlPCpFQuNDeRaF6dZaPjL",
+        "undefined": "software_version"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "10",
+      "range": "11",
+      "pos": [
+        773.96,
+        901.59
+      ]
+    },
+    {
+      "id": "17",
+      "iri": "http://www.w3.org/2002/07/owl#topObjectProperty",
+      "baseIri": "http://www.w3.org/2002/07/owl",
+      "label": {
+        "IRI-based": "topObjectProperty"
+      },
+      "attributes": [
+        "object",
+        "external"
+      ],
+      "domain": "16",
+      "range": "16",
+      "subproperty": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "pos": [
+        1496.66,
+        407.33
+      ]
+    },
+    {
+      "id": "25",
+      "iri": "http://webprotege.stanford.edu/R8hoaFGLV5ucOOqWGuspn1e",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R8hoaFGLV5ucOOqWGuspn1e",
+        "undefined": "output_fields"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "4",
+      "range": "22",
+      "pos": [
+        567.2,
+        -145.07
+      ]
+    },
+    {
+      "id": "18",
+      "iri": "http://webprotege.stanford.edu/RBgHdxX8Sk8exqfzGPGE3m2",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBgHdxX8Sk8exqfzGPGE3m2",
+        "undefined": "interprets"
+      },
+      "attributes": [
+        "object",
+        "external"
+      ],
+      "domain": "1",
+      "range": "4",
+      "superproperty": [
+        "17"
+      ],
+      "pos": [
+        409.4,
+        229.76
+      ]
+    },
+    {
+      "id": "19",
+      "iri": "http://webprotege.stanford.edu/R7t66SHY8R3tQ2D4TSlL7J3",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R7t66SHY8R3tQ2D4TSlL7J3",
+        "undefined": "uses"
+      },
+      "attributes": [
+        "object",
+        "external"
+      ],
+      "domain": "1",
+      "range": "10",
+      "superproperty": [
+        "17"
+      ],
+      "pos": [
+        522.49,
+        609.1
+      ]
+    },
+    {
+      "id": "26",
+      "iri": "http://webprotege.stanford.edu/RBqJpnjMtNrioOB5MNYtm0b",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RBqJpnjMtNrioOB5MNYtm0b",
+        "undefined": "software_name"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "10",
+      "range": "13",
+      "pos": [
+        839.66,
+        794.87
+      ]
+    },
+    {
+      "id": "21",
+      "iri": "http://webprotege.stanford.edu/RCS2aAU41JdLRu7G3VoM1uA",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCS2aAU41JdLRu7G3VoM1uA",
+        "undefined": "generates"
+      },
+      "attributes": [
+        "object",
+        "external"
+      ],
+      "domain": "10",
+      "range": "27",
+      "superproperty": [
+        "17"
+      ],
+      "pos": [
+        834.28,
+        597.47
+      ]
+    },
+    {
+      "id": "28",
+      "iri": "http://webprotege.stanford.edu/RTPube9pGEAp288wxSNvj5",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RTPube9pGEAp288wxSNvj5",
+        "undefined": "output_dimensions"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "4",
+      "range": "14",
+      "pos": [
+        306.81,
+        31.34
+      ]
+    },
+    {
+      "id": "29",
+      "iri": "http://webprotege.stanford.edu/RDVMzcdYs2nmRZR4CoijCKJ",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RDVMzcdYs2nmRZR4CoijCKJ",
+        "undefined": "represents"
+      },
+      "attributes": [
+        "object",
+        "external"
+      ],
+      "domain": "4",
+      "range": "8",
+      "pos": [
+        301.8,
+        -147.43
+      ]
+    },
+    {
+      "id": "30",
+      "iri": "http://webprotege.stanford.edu/RCGRmgBd3ILbfaNHPLeEOhR",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCGRmgBd3ILbfaNHPLeEOhR",
+        "undefined": "github_id"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "24",
+      "range": "12",
+      "pos": [
+        399.32,
+        1202.96
+      ]
+    },
+    {
+      "id": "31",
+      "iri": "http://webprotege.stanford.edu/RCcBogwoZTbwxhkQvaxYSyB",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "RCcBogwoZTbwxhkQvaxYSyB",
+        "undefined": "last_name"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "1",
+      "range": "15",
+      "pos": [
+        217.09,
+        525.37
+      ]
+    },
+    {
+      "id": "33",
+      "iri": "http://www.w3.org/2002/07/owl#topDataProperty",
+      "baseIri": "http://www.w3.org/2002/07/owl",
+      "label": {
+        "IRI-based": "topDataProperty"
+      },
+      "attributes": [
+        "datatype",
+        "external"
+      ],
+      "domain": "16",
+      "range": "34",
+      "pos": [
+        1450.77,
+        135.11
+      ]
+    },
+    {
+      "id": "35",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "32",
+      "range": "4",
+      "pos": [
+        676.04,
+        30.52
+      ]
+    },
+    {
+      "id": "36",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "1",
+      "range": "23",
+      "pos": [
+        265.06,
+        648.63
+      ]
+    },
+    {
+      "id": "38",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "37",
+      "range": "4",
+      "pos": [
+        630.59,
+        80.92
+      ]
+    },
+    {
+      "id": "20",
+      "iri": "http://webprotege.stanford.edu/R7RUkLCQz1uBnCS0j8NbIr8",
+      "baseIri": "http://webprotege.stanford.edu",
+      "label": {
+        "IRI-based": "R7RUkLCQz1uBnCS0j8NbIr8",
+        "undefined": "develops"
+      },
+      "attributes": [
+        "object",
+        "external"
+      ],
+      "domain": "24",
+      "range": "10",
+      "superproperty": [
+        "17"
+      ],
+      "pos": [
+        558.04,
+        918.16
+      ]
+    },
+    {
+      "id": "39",
+      "label": "Subclass of",
+      "attributes": [
+        "object",
+        "anonymous"
+      ],
+      "domain": "24",
+      "range": "23",
+      "pos": [
+        306.02,
+        944.94
+      ]
+    },
+    {
+      "id": "GENERATED-UNION-27-32-0",
+      "domain": "27",
+      "range": "32",
+      "pos": [
+        921.63,
+        259.62
+      ]
+    },
+    {
+      "id": "GENERATED-UNION-27-37-1",
+      "domain": "27",
+      "range": "37",
+      "pos": [
+        877,
+        307.72
+      ]
+    }
+  ]
+}
