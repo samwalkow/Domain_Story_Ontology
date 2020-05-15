@@ -27,3 +27,14 @@ I'd like to use context free grammar to translate the ontology classes to a comm
 I presented this work at the 2020 What is Information Virtual Conference.
 
 Presentation: https://docs.google.com/presentation/d/1YbnAes_HFx2oVoTps_1qY1Xf182Emc4fIiS6isWXkJM/edit?usp=sharing
+
+## Resources:
+
+Ontology stuff:
+- https://medium.com/@vindulajayawardana/ontology-generation-and-visualization-with-prot%C3%A9g%C3%A9-6df0af9955e0
+- https://github.com/RDFLib/rdflib
+- https://webprotege.stanford.edu/#login
+- http://www.easyrdf.org/converter
+
+Domain Storytelling stuff:
+- https://domainstorytelling.org/
